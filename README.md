@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ahfookies
-- 👀 I’m interested in ...learning to develop Dapps on blockchain
-- 🌱 I’m currently learning ...CS50
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...just a student learner
-- 📫 How to reach me ...myname+gmail.com
+- 📫 How to reach me ..
 
 <!---
 ahfookies/ahfookies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
